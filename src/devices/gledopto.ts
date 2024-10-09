@@ -211,6 +211,13 @@ const definitions: DefinitionWithExtend[] = [
         meta: {disableDefaultResponse: true},
     },
     {
+        zigbeeModel: ['GL-SD-001P'],
+        model: 'GL-SD-001P',
+        vendor: 'Gledopto',
+        description: 'Zigbee triac AC dimmer',
+        extend: [light()],
+    },   
+    {
         zigbeeModel: ['GL-C-006'],
         fingerprint: [
             {
