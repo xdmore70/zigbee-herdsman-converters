@@ -1,5 +1,13 @@
 # Changelog
 
+## [20.24.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.24.0...v20.24.1) (2024-10-09)
+
+
+### Bug Fixes
+
+* Fix Legrand device pairing ([#8093](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8093)) ([ef59340](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ef59340c723f2cf8ea8381997a9de69b431c657e))
+* Remove position from Siterwell GS361A-H04 ([#8092](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8092)) ([51d99cc](https://github.com/Koenkk/zigbee-herdsman-converters/commit/51d99cc42ba5919fd35d16a7a8ad13528a3553c7))
+
 ## [20.24.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.23.1...v20.24.0) (2024-10-06)
 
 
